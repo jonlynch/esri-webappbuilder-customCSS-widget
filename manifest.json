@@ -1,0 +1,16 @@
+{
+  "name": "CustomCSS",
+  "platform": "HTML",
+  "version": "1.0",
+  "wabVersion": "2.3",
+  "author": "Jon Lynch",
+  "description": "",
+  "copyright": "Copyright © 2017 Jon Lynch",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "inPanel": false,
+    "hasUIFile": false,
+    "supportMultiInstance": true,
+    "hasStyle": false
+  }
+}
