@@ -1,4 +1,4 @@
-# Custom CSS Widget for Web Appbuider Developer Edition #
+# Custom CSS Widget for ESRI ArcGIS Web Appbuilder Developer Edition #
 
 This widget adds the ability to quickly add css to a web appbuilder application using the web appbuilder GUI. 
 
